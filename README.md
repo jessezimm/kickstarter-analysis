@@ -14,13 +14,13 @@ The purpose of this project is to analyze past fundraising campaign data and unc
 
 Below, is a line graph with **Launch Dates in Months** on the x-axis and **Counts of Theater Outcomes** on the y-axis. The three lines (outcomes) are **Successful** (blue), **Failed** (red), and **Canceled** (yellow). 
 
-![Theater_Outcomes_vs_Launch](C:\Users\pzzzz\OneDrive\Documents\Data Analytics\resources\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88340176/130368679-9d28344a-bedf-4a14-a6ac-9fb8f640bb20.png)
 
 ### Analysis of Outcomes Based on Goals
 
 Below, is a line graph with **Monetary Goal Ranges** on the x-axis and **Percentage Play Outcomes** on the y-axis. The three lines (outcomes) are **Percentage Successful** (blue), **Percentage Failed** (orange), and **Percentage Canceled** (grey).
 
-![Outcomes_vs_Goals](C:\Users\pzzzz\OneDrive\Documents\Data Analytics\resources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88340176/130368683-6c1942ea-6977-471c-8d72-155e2b46616a.png)
 
 ### Challenges and Difficulties Encountered
 
